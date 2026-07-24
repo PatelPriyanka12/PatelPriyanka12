@@ -10,7 +10,7 @@ alt="Header accent"
 
 <img
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=2200&pause=1000&color=EF4444&center=true&vCenter=true&width=820&height=65&lines=OM+PATEL"
-alt="Om Patel"
+alt="Priyanka Patel"
 />
 
 <h3>Software Developer • Quality Assurance • Angular • DSA</h3>
