@@ -16,8 +16,6 @@ alt="Priyanka Patel"
 <h3> Senoir Software Engineer </h3>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:0B0B0B"
-width="100%"
 alt="Senior Software Engineer (.NET) with expertise in building scalable, high-performance web applications using C#, ASP.NET Core, Web API, SQL Server, and Azure. Passionate about clean architecture, problem-solving, and delivering reliable, business-focused software solutions.
 "
 />
