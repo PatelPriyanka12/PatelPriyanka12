@@ -210,7 +210,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/03-CURRENT_FOCUS-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/03-CURRENT_FOCUS-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Current focus"
 />
 
