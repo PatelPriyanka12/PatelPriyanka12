@@ -239,7 +239,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/04-TECH_STACK-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/04-TECH_STACK-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Tech stack"
 />
 
@@ -336,7 +336,7 @@ alt="Development tools"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -346,7 +346,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/05-FEATURED_PROJECTS-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/05-FEATURED_PROJECTS-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Featured projects"
 />
 
@@ -458,7 +458,7 @@ A web-based employee management system for handling attendance, employee records
 
 <a href="https://github.com/OmPatel2411-1/HRMS">
   <img
-    src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/VIEW_PROJECT-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View HRMS"
   />
 </a>
@@ -496,7 +496,7 @@ A day-wise repository documenting my consistent C++ and Data Structures and Algo
 
 <a href="https://github.com/OmPatel2411-1/DSA-CPP-Practice">
   <img
-    src="https://img.shields.io/badge/VIEW_JOURNEY-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/VIEW_JOURNEY-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View DSA repository"
   />
 </a>
@@ -569,7 +569,7 @@ alt="Web development foundation stack"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -579,7 +579,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/07-EXPERIENCE-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/07-EXPERIENCE-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Experience"
 />
 
@@ -617,7 +617,7 @@ alt="Experience"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -627,7 +627,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/08-GITHUB_CONTRIBUTION_GRAPH-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/08-GITHUB_CONTRIBUTION_GRAPH-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="GitHub contribution graph"
 />
 
@@ -650,7 +650,7 @@ alt="GitHub contribution graph"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -660,7 +660,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/09-LEETCODE_DASHBOARD-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/09-LEETCODE_DASHBOARD-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="LeetCode dashboard"
 />
 
