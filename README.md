@@ -415,7 +415,6 @@ A healthcare management system for handling patients, appointments, doctor avail
 
 <p align="center">
 <a href="github.com/PatelPriyanka12/?tab=repositories">
-<a href="https://github.com/OmPatel2411-1/Hospital-Management-Systems">
   <img
     src="https://img.shields.io/badge/VIEW_PROJECT-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View Hospital Management System"
@@ -455,7 +454,7 @@ A web-based employee management system for handling attendance, employee records
 
 <p align="center">
 
-<a href="https://github.com/OmPatel2411-1/HRMS">
+<a href="https://github.com/PatelPriyanka12/HRMS">
   <img
     src="https://img.shields.io/badge/VIEW_PROJECT-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View HRMS"
