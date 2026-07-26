@@ -29,14 +29,12 @@ alt="Developer introduction"
   />
 
 <img
- src="https://img.shields.io/badge/LOCATION-GUJARAT%2C%20INDIA-DC2626?style=for-the-badge&labelColor=0B0B0B"
+ src="https://img.shields.io/badge/LOCATION- VADODARA,GUJARAT%2C%20INDIA-DC2626?style=for-the-badge&labelColor=0B0B0B"
  alt="Location"
 />
-
 </p>
-
 <p>
-    <a href="https://github.com/PatelPriyanka12">
+    <a href="https://www.linkedin.com/in/priyanka-patel-bbb48b20b">
   <img
     src="https://img.shields.io/badge/in-Linkedin-DC2626?style=for-the-badge&labelColor=0B0B0B"
     alt="LinkedIn Profile"
