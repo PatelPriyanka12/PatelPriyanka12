@@ -16,7 +16,7 @@ alt="Priyanka Patel"
 <h3> Senoir Software Engineer </h3>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=820&lines=Building+practical+software+solutions;Testing%2C+debugging+and+improving+systems;Strengthening+problem-solving+with+C%2B%2B;Preparing+for+software+development+roles"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=820&lines=Senior Software Engineer (.NET) with expertise in building scalable, high-performance web applications using C#, ASP.NET Core, Web API, SQL Server, and Azure. Passionate about clean architecture, problem-solving, and delivering reliable, business-focused software solutions."
 alt="Senior Software Engineer (.NET) with expertise in building scalable, high-performance web applications using C#, ASP.NET Core, Web API, SQL Server, and Azure. Passionate about clean architecture, problem-solving, and delivering reliable, business-focused software solutions.
 "
 />
