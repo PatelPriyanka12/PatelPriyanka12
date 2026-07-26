@@ -43,17 +43,10 @@ alt="Developer introduction"
   />
 </a>
 
-  <a href="mailto:omhpatel2411@gmail.com">
+  <a href="mailto:patelpriyankadev974@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0B"
       alt="Email"
-    />
-  </a>
-
-  <a href="https://leetcode.com/u/OmPatel2411/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B0B0B"
-      alt="LeetCode"
     />
   </a>
 
