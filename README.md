@@ -36,7 +36,7 @@ alt="Developer introduction"
 </p>
 
 <p>
-    <a href="https://www.linkedin.com/in/ompatel2411/">
+    <a href="https://github.com/PatelPriyanka12">
   <img
     src="https://img.shields.io/badge/in-Linkedin-DC2626?style=for-the-badge&labelColor=0B0B0B"
     alt="LinkedIn Profile"
