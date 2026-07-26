@@ -710,18 +710,6 @@ alt="Section divider"
 
 </div>
 <br/>
-
-* Full-stack development projects
-* PHP and MySQL applications
-* React Native mobile development
-* DSA programs and daily learning logs
-* REST API implementations
-* Backend and database workflows
-* Project documentation and setup instructions
-
-</details>
-
-<br/>
 <br/>
 
 <div align="center">
