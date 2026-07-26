@@ -709,17 +709,6 @@ alt="Section divider"
 />
 
 </div>
-
-<br/>
-
-<img
-src="https://img.shields.io/badge/11-REPOSITORY_OVERVIEW-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
-alt="Repository overview"
-/>
-
-<details>
-<summary><b>🔍 What you will find in my repositories</b></summary>
-
 <br/>
 
 * Full-stack development projects
