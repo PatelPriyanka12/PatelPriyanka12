@@ -14,6 +14,7 @@ alt="Priyanka Patel"
 />
 
 <h3> Senoir Software Engineer </h3>
+<img
  src="https://img.shields.io/badge/LOCATION- VADODARA,GUJARAT%2C%20INDIA-DC2626?style=for-the-badge&labelColor=0B0B0B"
  alt="Location"
 />
