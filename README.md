@@ -219,8 +219,8 @@ alt="Current focus"
 | Track                    | Current Work                                            |   Status   |
 | ------------------------ | ------------------------------------------------------- | :--------: |
 | 🧠 **DSA with C++**      | Arrays, strings, vectors and problem-solving            |  `ACTIVE`  |
-| 🅰️ **Angular**          | Components, routing, services and application structure | `LEARNING` |
-| 🧪 **Quality Assurance** | Test cases, bug reports, API testing and QA workflows   | `LEARNING` |
+| 🅰️ **Angular**          | Components, routing, services and application structure | `BUILDING` |
+| 🧪 **Quality Assurance** | Test cases, bug reports, API testing and QA workflows   | `BUILDING` |
 | 🌐 **Full Stack**        | Frontend, backend, databases and REST APIs              | `BUILDING` |
 | 🎯 **Placement**         | Technical preparation, aptitude and communication       |  `ONGOING` |
 
