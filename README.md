@@ -259,7 +259,7 @@ alt="Programming languages"
 `C++`
 `JavaScript`
 `Python`
-`PHP`
+`C#`
 
 </td>
 
