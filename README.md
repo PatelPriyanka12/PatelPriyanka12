@@ -378,8 +378,7 @@ A financial management platform designed to help users monitor salary, expenses,
 <br/>
 
 <p align="center">
-
-<a href="https://github.com/OmPatel2411-1/Zoro-Mobile-App">
+ <a href="github.com/PatelPriyanka12/?tab=repositories">
   <img
     src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View Zoro project"
