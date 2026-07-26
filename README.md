@@ -5,9 +5,7 @@ src="https://capsule-render.vercel.app/api?type=rect&height=10&color=0:0B0B0B"
 width="100%"
 alt="Header accent"
 />
-
 <br/>
-
 <img
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=2200&pause=1000&color=0B0B0B&center=true&vCenter=true&width=820&height=65&lines=PRIYANKA+PATEL"
 alt="Priyanka Patel"
