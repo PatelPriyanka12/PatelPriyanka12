@@ -806,7 +806,7 @@ alt="Footer typing animation"
 <br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=12&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=12&color=100:0B0B0B"
 width="100%"
 alt="Footer accent"
 />
