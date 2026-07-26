@@ -118,12 +118,12 @@ alt="Developer dashboard"
 ### 👨‍💻 Developer Profile
 
 ```yaml
-name: Om Patel
-role: Software Developer
-education: Final-Year BE Information Technology
-college: SVIT Vasad
-location: Gujarat, India
-email: omhpatel2411@gmail.com
+name: Priyanka Patel
+role: Senior Software Developer
+education: Computer Engineering
+college: vadodara institute of engineering
+location: Vadodara, Gujarat, India
+email: patelpriyankadev974@gmail.com
 ```
 
 </td>
@@ -139,7 +139,7 @@ focus:
   - DSA with C++
   - Full-Stack Development
 
-goal: Placement Ready
+goal: Learning New Technologies
 status: Active
 ```
 
