@@ -104,7 +104,7 @@ alt="Header divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/01-DEVELOPER_DASHBOARD-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/01-DEVELOPER_DASHBOARD-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Developer dashboard"
 />
 
