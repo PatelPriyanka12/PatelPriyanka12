@@ -28,21 +28,21 @@ alt="Priyanka Patel"
 <p>
     <a href="https://www.linkedin.com/in/priyanka-patel-bbb48b20b">
   <img
-    src="https://img.shields.io/badge/in-Linkedin-DC2626?style=for-the-badge&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/in-Linkedin-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
     alt="LinkedIn Profile"
   />
 </a>
 
   <a href="mailto:patelpriyankadev974@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0B"
+      src="https://img.shields.io/badge/Email-D1D5DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0B"
       alt="Email"
     />
   </a>
 
   <a href="github.com/PatelPriyanka12/?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Projects-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+      src="https://img.shields.io/badge/Projects-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
       alt="Projects"
     />
   </a>
