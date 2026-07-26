@@ -663,14 +663,14 @@ alt="LeetCode dashboard"
 
 <a href="https://leetcode.com/u/OmPatel2411/">
   <img
-    src="https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-D1D5DB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B0B0B"
     alt="Open LeetCode profile"
   />
 </a>
 
 <a href="https://github.com/OmPatel2411-1/DSA-CPP-Practice">
   <img
-    src="https://img.shields.io/badge/VIEW_DSA_REPOSITORY-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/VIEW_DSA_REPOSITORY-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View DSA repository"
   />
 </a>
@@ -684,7 +684,7 @@ alt="LeetCode dashboard"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -694,7 +694,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/10-LEARNING_JOURNEY-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/10-LEARNING_JOURNEY-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Learning journey"
 />
 
@@ -713,7 +713,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/11-REPOSITORY_OVERVIEW-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/11-REPOSITORY_OVERVIEW-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Repository overview"
 />
 
@@ -733,21 +733,6 @@ alt="Repository overview"
 </details>
 
 <br/>
-
-<details>
-<summary><b>🤝 Areas I am open to working on</b></summary>
-
-<br/>
-
-* Quality Assurance and software testing
-* Angular frontend development
-* Full-stack web applications
-* AI-enabled software projects
-* Hackathon solutions
-* Beginner-friendly open-source work
-
-</details>
-
 <br/>
 
 <div align="center">
