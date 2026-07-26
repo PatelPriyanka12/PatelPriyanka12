@@ -492,8 +492,8 @@ A day-wise repository documenting my consistent C++ and Data Structures and Algo
 <br/>
 
 <p align="center">
+ <a href="https://github.com/PatelPriyanka12/DSA">
 
-<a href="https://github.com/OmPatel2411-1/DSA-CPP-Practice">
   <img
     src="https://img.shields.io/badge/VIEW_JOURNEY-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View DSA repository"
