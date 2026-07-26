@@ -208,7 +208,7 @@ I am passionate about continuous learning and always looking for opportunities t
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B"
 width="90%"
 alt="Section divider"
 />
