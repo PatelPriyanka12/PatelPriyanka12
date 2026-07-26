@@ -119,11 +119,11 @@ alt="Developer dashboard"
 
 ```yaml
 name: Priyanka Patel
-role: Senior Software Developer
-education: Computer Engineering
-college: vadodara institute of engineering
-location: Vadodara, Gujarat, India
-email: patelpriyankadev974@gmail.com
+Role: Senior Software Developer
+Education: Computer Engineering
+College: Vadodara institute of engineering Colllage,Kotambi
+Location: Vadodara, Gujarat, India
+Email: patelpriyankadev974@gmail.com
 ```
 
 </td>
@@ -164,15 +164,47 @@ src="https://img.shields.io/badge/02-ABOUT_ME-DC2626?style=for-the-badge&labelCo
 alt="About me"
 />
 
-I am a final-year **Information Technology student at SVIT Vasad**, focused on building practical software projects and strengthening the skills required for software development, quality assurance and placement opportunities.
+🚀 .NET Full Stack Developer | ASP.NET Core | C# | Python | Angular | SQL Server | Azure
 
-* 🔭 Building practical full-stack and software development projects
-* 🌱 Learning **Angular, Software Testing and DSA using C++**
-* 💻 Experienced with **MERN Stack, PHP, MySQL and React Native**
-* 🧠 Interested in AI-enabled applications and real-world problem-solving
-* 🛠️ Focused on testing, debugging and maintainable development
-* 🎯 Preparing for internships and entry-level software roles
 
+
+I am a .NET Full Stack Developer with 4.8 years of experience designing, developing, and maintaining scalable web applications across healthcare, telecom, and enterprise domains.
+
+
+
+My expertise includes building secure, high-performance applications using C#, ASP.NET Core, ASP.NET MVC, Web API, Angular, JavaScript, TypeScript, SQL Server, Entity Framework, and REST APIs. I have hands-on experience with Azure, Git, CI/CD, and Agile development practices.
+
+
+
+I enjoy solving complex technical challenges, optimizing application performance, and developing clean, maintainable code. I have worked on end-to-end software development, from gathering requirements and designing solutions to deployment and production support.
+
+
+
+Core Skills
+
+
+
+✔ C# & .NET Core / ASP.NET Core
+
+✔ ASP.NET MVC & Web API
+
+✔ Angular, JavaScript, TypeScript
+
+✔ SQL Server, Entity Framework, LINQ
+
+✔ REST APIs & Microservices
+
+✔ Azure, Git, Azure DevOps, CI/CD
+
+✔ Agile & Scrum Methodologies
+
+
+
+I am passionate about continuous learning and always looking for opportunities to work on innovative projects, contribute to high-performing teams, and build software that creates real business value.
+
+
+
+📩 I'm open to Full Stack .NET Developer opportunities (Remote, Hybrid, or On-site). Feel free to connect or reach out to discuss opportunities and collaborations.
 <div align="center">
 
 <img
