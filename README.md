@@ -321,15 +321,15 @@ alt="Development tools"
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-DSA-DC2626?style=for-the-badge\&logo=cplusplus\&logoColor=white\&labelColor=0B0B0B)
-![JavaScript](https://img.shields.io/badge/JavaScript-Development-DC2626?style=for-the-badge\&logo=javascript\&logoColor=white\&labelColor=0B0B0B)
-![Angular](https://img.shields.io/badge/Angular-Learning-DC2626?style=for-the-badge\&logo=angular\&logoColor=white\&labelColor=0B0B0B)
+![C++](https://img.shields.io/badge/C++-DSA-D1D5DB?style=for-the-badge\&logo=cplusplus\&logoColor=white\&labelColor=0B0B0B)
+![JavaScript](https://img.shields.io/badge/JavaScript-Development-D1D5DB?style=for-the-badge\&logo=javascript\&logoColor=white\&labelColor=0B0B0B)
+![Angular](https://img.shields.io/badge/Angular-Learning-D1D5DB?style=for-the-badge\&logo=angular\&logoColor=white\&labelColor=0B0B0B)
 
 <br/>
 
-![Testing](https://img.shields.io/badge/Software_Testing-QA-DC2626?style=for-the-badge\&labelColor=0B0B0B)
-![MERN](https://img.shields.io/badge/MERN-Full_Stack-DC2626?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=0B0B0B)
-![REST API](https://img.shields.io/badge/REST_API-Integration-DC2626?style=for-the-badge\&labelColor=0B0B0B)
+![Testing](https://img.shields.io/badge/Software_Testing-QA-D1D5DB?style=for-the-badge\&labelColor=0B0B0B)
+![MERN](https://img.shields.io/badge/MERN-Full_Stack-D1D5DB?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=0B0B0B)
+![REST API](https://img.shields.io/badge/REST_API-Integration-D1D5DB?style=for-the-badge\&labelColor=0B0B0B)
 
 </div>
 
