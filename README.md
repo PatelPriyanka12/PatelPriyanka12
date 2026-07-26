@@ -23,11 +23,6 @@ alt="Developer introduction"
 <br/>
 
 <p>
-  <img
-    src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-DC2626?style=for-the-badge&labelColor=0B0B0B"
-    alt="Open to opportunities"
-  />
-
 <img
  src="https://img.shields.io/badge/LOCATION- VADODARA,GUJARAT%2C%20INDIA-DC2626?style=for-the-badge&labelColor=0B0B0B"
  alt="Location"
@@ -48,7 +43,7 @@ alt="Developer introduction"
     />
   </a>
 
-  <a href="https://github.com/OmPatel2411-1?tab=repositories">
+  <a href="github.com/PatelPriyanka12/?tab=repositories">
     <img
       src="https://img.shields.io/badge/Projects-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
       alt="Projects"
@@ -95,25 +90,6 @@ Full-Stack Projects
 </table>
 
 <br/>
-
-<p>
-  <img
-    src="https://img.shields.io/badge/FINAL--YEAR-BE%20INFORMATION%20TECHNOLOGY-0B0B0B?style=flat-square&logo=academia&logoColor=EF4444"
-    alt="Final-year IT student"
-  />
-
-<img
- src="https://img.shields.io/badge/COLLEGE-SVIT%20VASAD-0B0B0B?style=flat-square&logo=google-scholar&logoColor=EF4444"
- alt="SVIT Vasad"
-/>
-
-<img
- src="https://komarev.com/ghpvc/?username=OmPatel2411-1&label=PROFILE%20VIEWS&color=DC2626&style=flat-square"
- alt="Profile views"
-/>
-
-</p>
-
 <br/>
 
 <img
