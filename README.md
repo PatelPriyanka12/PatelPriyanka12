@@ -14,16 +14,6 @@ alt="Priyanka Patel"
 />
 
 <h3> Senoir Software Engineer </h3>
-
-<img
-alt="Senior Software Engineer (.NET) with expertise in building scalable, high-performance web applications using C#, ASP.NET Core, Web API, SQL Server, and Azure. Passionate about clean architecture, problem-solving, and delivering reliable, business-focused software solutions.
-"
-/>
-
-<br/>
-
-<p>
-<img
  src="https://img.shields.io/badge/LOCATION- VADODARA,GUJARAT%2C%20INDIA-DC2626?style=for-the-badge&labelColor=0B0B0B"
  alt="Location"
 />
