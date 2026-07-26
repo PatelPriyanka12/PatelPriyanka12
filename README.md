@@ -380,7 +380,7 @@ A financial management platform designed to help users monitor salary, expenses,
 <p align="center">
  <a href="github.com/PatelPriyanka12/?tab=repositories">
   <img
-    src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/VIEW_PROJECT-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View Zoro project"
   />
 </a>
@@ -418,7 +418,7 @@ A healthcare management system for handling patients, appointments, doctor avail
 <a href="github.com/PatelPriyanka12/?tab=repositories">
 <a href="https://github.com/OmPatel2411-1/Hospital-Management-Systems">
   <img
-    src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/VIEW_PROJECT-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View Hospital Management System"
   />
 </a>
@@ -510,7 +510,7 @@ A day-wise repository documenting my consistent C++ and Data Structures and Algo
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:D1D5DB,100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -520,7 +520,7 @@ alt="Section divider"
 <br/>
 
 <img
-src="https://img.shields.io/badge/06-WEB_DEVELOPMENT_FOUNDATION-DC2626?style=for-the-badge&labelColor=0B0B0B"
+src="https://img.shields.io/badge/06-WEB_DEVELOPMENT_FOUNDATION-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
 alt="Web development foundation"
 />
 
@@ -557,7 +557,7 @@ alt="Web development foundation stack"
 
 <a href="https://github.com/OmPatel2411-1/phase-1-web-development-foundation">
   <img
-    src="https://img.shields.io/badge/VIEW_REPOSITORY-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/VIEW_REPOSITORY-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="View web development repository"
   />
 </a>
@@ -620,7 +620,7 @@ alt="GitHub contribution graph"
 
 <a href="https://github.com/OmPatel2411-1">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OmPatel2411-1&bg_color=0B0B0B&color=F87171&line=DC2626&point=FFFFFF&area=true&area_color=7F1D1D&hide_border=true&radius=8&custom_title=GitHub%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OmPatel2411-1&bg_color=0B0B0B&color=F87171&line=D1D5DB&point=FFFFFF&area=true&area_color=7F1D1D&hide_border=true&radius=8&custom_title=GitHub%20Contribution%20Activity"
     width="100%"
     alt="GitHub contribution activity"
   />
@@ -703,7 +703,7 @@ alt="Learning journey"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:D1D5DB,100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -715,7 +715,7 @@ alt="Section divider"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:D1D5DB,100:0B0B0B"
 width="90%"
 alt="Footer divider"
 />
@@ -727,29 +727,29 @@ alt="Footer divider"
 <p>
 <a href="https://www.linkedin.com/in/priyanka-patel-bbb48b20b">
   <img
-    src="https://img.shields.io/badge/in-Linkedin-DC2626?style=for-the-badge&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/in-Linkedin-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
     alt="LinkedIn Profile"
   />
 </a>
  <a href="mailto:patelpriyankadev974@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/Email-D1D5DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0B"
     alt="Email"
   />
 </a>
 
 <a href="https://leetcode.com/u/OmPatel2411/">
   <img
-    src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/LeetCode-D1D5DB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B0B0B"
     alt="LeetCode"
   />
 </a>
 
  <a href="github.com/PatelPriyanka12/?tab=repositories">
   <img
-    src="https://img.shields.io/badge/Projects-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
+    src="https://img.shields.io/badge/Projects-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
     alt="Projects"
-  />
+  /> 
 </a>
 
 </p>
