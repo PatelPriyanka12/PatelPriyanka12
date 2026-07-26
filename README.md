@@ -20,7 +20,7 @@ alt="Priyanka Patel"
     </p>
 <img
 <img
-  src="https://img.shields.io/badge/LOCATION-VADODARA%2C%20GUJARAT%2C%20INDIA-111111?style=for-the-badge&labelColor=111111"
+  src="https://img.shields.io/badge/LOCATION-VADODARA%2C%20GUJARAT%2C%20INDIA-111111?style=for-the-badge&labelColor=D1D5DB"
   alt="Location"
 />
 />
