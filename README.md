@@ -518,13 +518,3 @@ alt="Section divider"
 </div>
 
 <br/>
-
-<img
-src="https://img.shields.io/badge/06-WEB_DEVELOPMENT_FOUNDATION-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
-alt="Web development foundation"
-/>
-
-<table>
-<tr>
-<td width="68%" valign="top">
-
