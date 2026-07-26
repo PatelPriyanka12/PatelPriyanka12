@@ -703,7 +703,7 @@ alt="Learning journey"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:D1D5DB,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -715,44 +715,10 @@ alt="Section divider"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:D1D5DB,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Footer divider"
 />
-
-<br/>
-
-## Let’s Build Reliable Software
-
-<p>
-<a href="https://www.linkedin.com/in/priyanka-patel-bbb48b20b">
-  <img
-    src="https://img.shields.io/badge/in-Linkedin-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
-    alt="LinkedIn Profile"
-  />
-</a>
- <a href="mailto:patelpriyankadev974@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D1D5DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0B"
-    alt="Email"
-  />
-</a>
-
-<a href="https://leetcode.com/u/OmPatel2411/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-D1D5DB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B0B0B"
-    alt="LeetCode"
-  />
-</a>
-
- <a href="github.com/PatelPriyanka12/?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Projects-D1D5DB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
-    alt="Projects"
-  /> 
-</a>
-
-</p>
 
 <br/>
 
