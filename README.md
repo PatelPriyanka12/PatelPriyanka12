@@ -229,7 +229,7 @@ alt="Current focus"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=100:0B0B0B"
 width="90%"
 alt="Section divider"
 />
@@ -415,7 +415,7 @@ A healthcare management system for handling patients, appointments, doctor avail
 <br/>
 
 <p align="center">
-
+<a href="github.com/PatelPriyanka12/?tab=repositories">
 <a href="https://github.com/OmPatel2411-1/Hospital-Management-Systems">
   <img
     src="https://img.shields.io/badge/VIEW_PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0B0B"
