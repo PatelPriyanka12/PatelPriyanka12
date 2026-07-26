@@ -250,7 +250,7 @@ alt="Tech stack"
 ### Languages
 
 <img
-src="https://skillicons.dev/icons?i=cpp,js,python,php"
+src="https://skillicons.dev/icons?i=cpp,js,python,C#"
 alt="Programming languages"
 />
 
