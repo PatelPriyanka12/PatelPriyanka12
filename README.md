@@ -19,8 +19,10 @@ alt="Priyanka Patel"
         Web API, SQL Server, and Azure.
     </p>
 <img
- src="https://img.shields.io/badge/LOCATION- VADODARA,GUJARAT%2C%20INDIA-DC2626?style=for-the-badge&labelColor=0B0B0B"
- alt="Location"
+<img
+  src="https://img.shields.io/badge/LOCATION-VADODARA%2C%20GUJARAT%2C%20INDIA-111111?style=for-the-badge&labelColor=111111"
+  alt="Location"
+/>
 />
 </p>
 <p>
