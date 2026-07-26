@@ -13,7 +13,7 @@ src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size
 alt="Priyanka Patel"
 />
 
-<h3>Software Developer • Quality Assurance • Angular • DSA</h3>
+<h3> Senoir Software Engineer </h3>
 
 <img
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=F87171&center=true&vCenter=true&width=820&lines=Building+practical+software+solutions;Testing%2C+debugging+and+improving+systems;Strengthening+problem-solving+with+C%2B%2B;Preparing+for+software+development+roles"
