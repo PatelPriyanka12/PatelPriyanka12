@@ -93,7 +93,7 @@ Full-Stack Projects
 <br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0B0B0B,50:DC2626,100:0B0B0B"
+src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0B0B0B"
 width="92%"
 alt="Header divider"
 />
