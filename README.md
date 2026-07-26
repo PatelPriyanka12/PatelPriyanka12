@@ -595,22 +595,7 @@ alt="Experience"
 
 </td>
 
-<td width="75%" valign="top">
 
-### MERN Stack Intern
-
-**BrainyBeam Info-Tech Pvt. Ltd.**
-
-`15 May 2026 – 13 June 2026`
-
-* Developed responsive frontend pages
-* Built reusable React components
-* Worked with Node.js, Express.js and MongoDB
-* Practised routing and database connectivity
-* Implemented REST API integration
-* Debugged frontend and backend workflows
-
-</td>
 </tr>
 </table>
 
