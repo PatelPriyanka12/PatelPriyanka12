@@ -12,12 +12,9 @@ alt="Header accent"
 src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=38&duration=2200&pause=1000&color=0B0B0B&center=true&vCenter=true&width=820&height=65&lines=PRIYANKA+PATEL"
 alt="Priyanka Patel"
 />
-
 <h3> Senoir Software Engineer </h3>
-<p>
-        Building scalable, high-performance web applications with C#, ASP.NET Core,
-        Web API, SQL Server, and Azure.
-    </p>
+<p> Senior Software Engineer (.NET) with expertise in building scalable, high-performance web applications using C#, ASP.NET Core, Web API, SQL Server, and Azure. Passionate about clean architecture, problem-solving, and delivering reliable, business-focused software solutions.
+ </p>
 <img
 <img
   src="https://img.shields.io/badge/LOCATION-VADODARA%2C%20GUJARAT%2C%20INDIA-D1D5DB?style=for-the-badge&labelColor=0B0B0B"
