@@ -248,12 +248,10 @@ alt="Tech stack"
 <td width="25%" align="center" valign="top">
 
 ### Languages
-
 <img
-src="https://skillicons.dev/icons?i=cpp,js,python,C#"
-alt="Programming languages"
+  src="https://skillicons.dev/icons?i=cpp,js,python,dotnet"
+  alt="Programming languages"
 />
-
 <br/><br/>
 
 `C++`
