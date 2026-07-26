@@ -698,19 +698,7 @@ src="https://img.shields.io/badge/10-LEARNING_JOURNEY-DC2626?style=for-the-badge
 alt="Learning journey"
 />
 
-<div align="center">
 
-| Milestone                      |     Status     |
-| ------------------------------ | :------------: |
-| Web Development Foundation     |   ✅ Completed  |
-| MERN Stack Internship          |   ✅ Completed  |
-| Academic and Personal Projects |     ✅ Built    |
-| DSA Preparation with C++       |    🔄 Active   |
-| Angular Development            |   🔄 Learning  |
-| Software Testing and QA        |   🔄 Learning  |
-| Placement Preparation          | 🎯 In Progress |
-
-</div>
 
 <div align="center">
 
